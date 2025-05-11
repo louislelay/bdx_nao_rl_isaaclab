@@ -3,5 +3,4 @@
 #
 # SPDX-License-Identifier: BSD-3-Clause
 
-from .cartpole import *
-from .cart_double_pendulum import *
+from .disney import *
