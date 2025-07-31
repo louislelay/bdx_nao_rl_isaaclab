@@ -61,7 +61,7 @@ from isaaclab_rl.rsl_rl import RslRlOnPolicyRunnerCfg, RslRlVecEnvWrapper, expor
 import isaaclab_tasks  # noqa: F401
 from isaaclab_tasks.utils import get_checkpoint_path, parse_env_cfg
 
-import disney_bdx.tasks  # noqa: F401
+import entertaining_biped_tasks.tasks  # noqa: F401
 
 
 def main():
